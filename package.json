@@ -1,0 +1,29 @@
+{
+  "name": "viglioni.com",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.2",
+    "@fortawesome/free-solid-svg-icons": "^5.2.0",
+    "@fortawesome/react-fontawesome": "^0.1.2",
+    "@reach/router": "^1.1.1",
+    "bootstrap": "^4.1.1",
+    "i": "^0.3.6",
+    "npm": "^6.4.0",
+    "react": "^16.4.2",
+    "react-anchor-link-smooth-scroll": "^1.0.11",
+    "react-dom": "^16.4.2",
+    "react-icons": "^3.0.5",
+    "react-pdf": "^3.0.5",
+    "react-router": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^6.3.1",
+    "styled-components": "^3.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

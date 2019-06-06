@@ -1,0 +1,37 @@
+.navbar2  * {
+    /* border: 1px solid red; */
+}
+.navbar2 {
+    margin: 0 auto;
+    z-index: 2;
+    margin-bottom: 0 !important;
+    border-radius: 0 !important;
+    background-color: gray;
+}
+
+
+.title{
+    font-size: 8vmin !important;
+    line-height: 0vh;
+    font-family: 'PT Sans Narrow', sans-serif;
+    padding: 6vh 0 3vh 0;
+}
+
+.subtitle{
+    font-size: 5vmin !important;
+    line-height: 0vh;
+    font-family: 'PT Sans Narrow', sans-serif;
+    padding: 6vh 0 3vh 0;
+}
+
+.titles > * {
+    height: 50%;
+}
+
+#logoPi {
+    border-radius: 2000px;
+    max-width: 100%;
+    height: auto;
+    max-height: 25vh;
+}
+

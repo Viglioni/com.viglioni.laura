@@ -1,0 +1,11 @@
+.hmax {
+    height: 100% !important;
+}
+
+.hmax .carousel-inner {
+    height: 100% !important;
+}
+
+.itemCar {
+    padding: 10px 0;
+}

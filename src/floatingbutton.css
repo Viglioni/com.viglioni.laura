@@ -1,0 +1,24 @@
+
+#floatingbutton {
+    display: block;
+    width: 60px;
+    height: 60px;
+    border-radius: 2000px;
+    padding: 15px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    opacity: 0.5;
+    transition: 1s;
+}
+
+#floatingbutton:hover{
+    opacity: 1;
+}
+
+@media(min-width: 768px){
+    #floatingbutton{
+	right: auto;
+	left: 20px;
+    }
+}
